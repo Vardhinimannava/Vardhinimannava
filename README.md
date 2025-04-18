@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BALA VARDHINI
 - 📌 About Me
 Hey there! I'm Bala vardhini, a Computer Science & Engineering student at Saveetha school of Engineering  with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
-   Skills & Interests:
+🚀 Skills & Interests:
 💻 Programming Languages: Python, C, C++, HTML, CSS, JavaScript (basic knowledge)
 📚 Frameworks/Libraries: Bootstrap, Django, NumPy, Pandas, Tkinter
 🗄️ Databases: MySQL, SQLite
